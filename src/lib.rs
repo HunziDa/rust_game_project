@@ -8,7 +8,7 @@ pub mod prelude {
 
 //Meta data: terminal窗口大小(size:100*60)与游戏帧率(fps:50)参数
 pub const SCREEN_WIDTH: i32 = 120;
-pub const SCREEN_HEIGHT: i32 = 180;
+pub const SCREEN_HEIGHT: i32 = 80;
 pub const FRAME_DURATION: f32 = 20.0;
 
 //游戏组件：玩家与障碍物
